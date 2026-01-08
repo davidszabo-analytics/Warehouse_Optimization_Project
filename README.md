@@ -1,4 +1,4 @@
-# Warehouse_Optimization_Project-
+# Warehouse_Optimization_Project
 SQL-based analysis of pallet dwell-time and labor latency in high-volume logistics.
 
 Identifying bottlenecks in the physical data-stream (warehouse floor) to optimize retrieval paths and developing a relational model to track pallet “dwell-time” from inbound delivery to storage.
